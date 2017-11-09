@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Niki/CLionProjects/NBUProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Niki/CLionProjects/NBUProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Niki/CLionProjects/NBUProgramming/cmake-build-debug/CMakeFiles/NBUProgramming.dir
