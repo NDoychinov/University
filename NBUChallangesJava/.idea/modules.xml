@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NBUChallanges.iml" filepath="$PROJECT_DIR$/NBUChallanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NBUChallangesJava.iml" filepath="$PROJECT_DIR$/NBUChallangesJava.iml" />
     </modules>
   </component>
 </project>
